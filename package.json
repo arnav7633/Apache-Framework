@@ -1,0 +1,29 @@
+{
+  "name": "apache_framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "commit": "cz",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnav7633/Apache-Framework.git"
+  },
+  "keywords": [
+    "discord.js",
+    "discord",
+    "js-framework"
+  ],
+  "author": "Apache Dev , EmanSza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arnav7633/Apache-Framework/issues"
+  },
+  "homepage": "https://github.com/arnav7633/Apache-Framework#readme",
+  "dependencies": {
+    "commitizen": "^4.2.4",
+    "discord.js": "^13.1.0"
+  }
+}
