@@ -13,7 +13,7 @@ class ApacheClient extends Discord.Client {
     this.eventPath = options.eventPath || "./events";
   }
   login(token) {
-    if (!typeof token == "string") {
+    if (typeof token !== "string") {
       throw new Error("Token must be a string");
     }
     try {
