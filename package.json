@@ -24,6 +24,6 @@
   "homepage": "https://github.com/arnav7633/Apache-Framework#readme",
   "dependencies": {
     "commitizen": "^4.2.4",
-    "discord.js": "^13.1.0"
+    "discord.js": "^13.6.0"
   }
 }
